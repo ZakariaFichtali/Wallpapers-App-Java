@@ -9,6 +9,7 @@ public class Constants {
 
     public static int loadingStatus = 0;
     public static String remote_url = "http://192.168.1.7/json/AnimeXWallpapers.json";
+    //public static String remote_url = "http://127.0.0.1:8000/api/brief";
 
     public static int splash_delay = 2000;
 
