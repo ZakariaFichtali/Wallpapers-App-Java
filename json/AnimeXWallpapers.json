@@ -1,0 +1,91 @@
+{
+
+    "ads": {
+
+    },
+    
+    "categories": [
+
+       
+        {
+            "id": 1,
+            "name": "Animals",
+            "image": "",
+            "locked": false
+        },
+
+        {
+            "id": 21,
+            "name": "Nature",
+            "image": "",
+            "locked": false
+        },
+        {
+            "id": 21,
+            "name": "Anime",
+            "image": "",
+            "locked": false
+        },
+        {
+            "id": 21,
+            "name": "Cars",
+            "image": "",
+            "locked": false
+        },
+        {
+            "id": 21,
+            "name": "Sport",
+            "image": "",
+            "locked": false
+        },
+        {
+            "id": 21,
+            "name": "TV Shows",
+            "image": "",
+            "locked": false
+        },
+
+        {
+            "id": 21,
+            "name": "TV Shows",
+            "image": "",
+            "locked": false
+        },
+
+        {
+            "id": 21,
+            "name": "TV Shows",
+            "image": "",
+            "locked": false
+        },
+
+        {
+            "id": 21,
+            "name": "TV Shows",
+            "image": "",
+            "locked": false
+        },
+        {
+            "id": 21,
+            "name": "TV Shows",
+            "image": "",
+            "locked": false
+        },
+        {
+            "id": 21,
+            "name": "TV Shows",
+            "image": "",
+            "locked": false
+        },
+        
+        {
+            "id": 21,
+            "name": "Colors",
+            "image": "",
+            "locked": false
+        }
+          
+    ]
+
+
+}
